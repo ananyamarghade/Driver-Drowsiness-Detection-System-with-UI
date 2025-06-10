@@ -10,6 +10,22 @@ The goal of this project is to improve road safety by using AI to detect signs o
 
 ---
 
+## 📁 Project Structure
+
+| File Name                      | Description |
+|-------------------------------|-------------|
+| `driver drowsiness with UI.py` | Main script with graphical user interface |
+| `without UI.py`               | Command-line version of the drowsiness detection system |
+| `blink+yawn.py`               | Detects blinking and yawning |
+| `head pose.py`                | Monitors head orientation for signs of fatigue |
+| `facial landmark.py`          | Visualizes facial landmarks using Dlib |
+| `yawn.py`                     | Dedicated yawning detection logic |
+| `blink+face#3.py`             | Blinking with face detection logic |
+| `requirements.txt`            | Python libraries required for running the project |
+| `shape predictor. text`       | A note with the download link for the landmark model (see below) |
+
+---
+
 ## 🧰 Technologies & Tools Used
 
 - **Python**
