@@ -37,3 +37,9 @@ The goal of this project is to improve road safety by using AI to detect signs o
    pip install opencv-python dlib imutils scipy playsound
 3. Run the main script:
    driver drowsiness with UI.py
+   
+---
+💡 Final Note
+This project represents a small step toward leveraging AI for public safety. Whether you're an enthusiast or a fellow student, feel free to build on this idea and take it further.
+
+Stay safe, stay curious, and keep innovating! 💻🌟
