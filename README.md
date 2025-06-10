@@ -24,8 +24,7 @@ The goal of this project is to improve road safety by using AI to detect signs o
 
 ## 📦 Files in this Project
 
-- `main.py` – the main script for drowsiness detection  
-- `alarm.wav` – sound file that plays when drowsiness is detected  
+- `driver drowsiness with UI.py` – the main script for drowsiness detection  
 - `shape_predictor_68_face_landmarks.dat` – facial landmark model (⚠️ Not included here due to file size. Download it [here](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2) and extract.)
 
 ---
@@ -36,3 +35,5 @@ The goal of this project is to improve road safety by using AI to detect signs o
 2. Install dependencies:
    ```bash
    pip install opencv-python dlib imutils scipy playsound
+3. Run the main script:
+   driver drowsiness with UI.py
