@@ -1,0 +1,6 @@
+opencv-python
+dlib
+numpy
+scipy
+PyQt5
+matplotlib
