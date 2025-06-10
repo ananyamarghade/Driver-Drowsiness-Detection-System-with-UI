@@ -16,5 +16,5 @@ This Python project uses **OpenCV**, **dlib**, and **PyQt5** to detect signs of 
 
 ## 🛠️ Requirements
 
-Install all dependencies using the provided `requirements.txt` file:
+Install all dependencies using the provided `requirements.txt` file
 
