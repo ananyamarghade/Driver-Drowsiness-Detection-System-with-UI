@@ -4,13 +4,13 @@ This is a real-time **Driver Drowsiness Detection System** that uses computer vi
 
 ---
 
-## 📌 About the Project
+## About the Project
 
 The goal of this project is to improve road safety by using AI to detect signs of drowsiness in drivers. It continuously analyzes eye aspect ratio (EAR) using a webcam feed. If the system detects prolonged eye closure, it issues an audible warning.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 | File Name                      | Description |
 |-------------------------------|-------------|
@@ -26,7 +26,7 @@ The goal of this project is to improve road safety by using AI to detect signs o
 
 ---
 
-## 🧰 Technologies & Tools Used
+## Technologies & Tools Used
 
 - **Python**
 - **OpenCV** – for capturing and processing video frames
@@ -38,14 +38,14 @@ The goal of this project is to improve road safety by using AI to detect signs o
 
 ---
 
-## 📦 Files in this Project
+## Files in this Project
 
 - `driver drowsiness with UI.py` – the main script for drowsiness detection  
 - `shape_predictor_68_face_landmarks.dat` – facial landmark model (⚠️ Not included here due to file size. Download it [here](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2) and extract.)
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Download and extract the **shape_predictor_68_face_landmarks.dat** file into your project folder.
 2. Install dependencies:
@@ -55,7 +55,7 @@ The goal of this project is to improve road safety by using AI to detect signs o
    driver drowsiness with UI.py
    
 ---
-💡 Final Note
+## Final Note
 This project represents a small step toward leveraging AI for public safety. Whether you're an enthusiast or a fellow student, feel free to build on this idea and take it further.
 
-Stay safe, stay curious, and keep innovating! 💻🌟
+Stay safe, stay curious, and keep innovating!
